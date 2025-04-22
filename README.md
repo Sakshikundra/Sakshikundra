@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sakshi Kundra</h1>
-<h3 align="center">Frontend Developer | ReactJS Enthusiast | Filmmaker</h3>
-
 <p align="center">
   <img src="https://github.com/SakshiKundra/SakshiKundra/blob/main/banner.png" alt="Tech Banner" width="100%" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Sakshi Kundra</h1>
+<h3 align="center">Frontend Developer | ReactJS Enthusiast | Filmmaker</h3>
+
 
 ---
 
@@ -30,6 +31,7 @@
 
 </div>
 
+![image](https://github.com/user-attachments/assets/41e12f7d-4e93-4437-ac71-866898da3ebd)
 
 ---
 
