@@ -7,17 +7,25 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="60%">
+      
 ### 🌼 About Me
 
-- 💻 I’m **Sakshi Kundra**, a frontend developer who transforms ideas into smooth, stunning web apps using **ReactJS**, **TailwindCSS**, and a splash of creativity.
-- 🎨 Obsessed with clean UIs, pixel-perfect layouts, and turning designs into code that just *feels right*.
-- 🚀 Mastering the art of **building high-impact React projects** — from personal dashboards to sleek portfolio sites.
-- 🎥 Also a passionate **filmmaker** — because storytelling is my jam, whether it’s through camera angles or component trees.
-- 🔄 Always experimenting with animations, micro-interactions, and UI magic that makes users go “whoa”.
-- 🌈 Believer in building things that are **not just functional, but delightful**.
-- 🤝 Always open to collaborate on cool frontend projects, content creation, or anything that mixes tech + creativity.
+💻 Frontend developer crafting clean, responsive UIs with **ReactJS**, **TailwindCSS**, and a touch of creative flair ✨  
+🎬 Filmmaker at heart — storytelling through code *and* camera angles  
+🌱 Currently building slick React projects & exploring cool UI tricks  
+🤝 Let’s collab on anything creative + techy  
+📫 Reach me: **codewithsakshi09@gmail.com**  
+⚡ Fun Fact: I treat hover effects like movie edits — both deserve perfection 🎥
 
-> **Fun Fact**: I can spend 3 hours tweaking a hover effect *and* 3 days editing a video — perfectionism is my love language 💫
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="250" alt="Sakshi Coding">
+    </td>
+  </tr>
+</table>
 
 ---
 
