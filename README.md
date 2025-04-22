@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sakshi Kundra</h1>
-<h3 align="center">Frontend Developer | ReactJS Enthusiast | Filmmaker</h3>
+<h3 align="center">Frontend Developer | Filmmaker</h3>
 
 
 ---
@@ -24,14 +24,15 @@
 
     </td>
     <td align="center" width="40%">
-     [ <img src="[https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Developer Girl GIF" />](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+      <img src="[https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Developer Girl GIF" />(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
     </td>
   </tr>
 </table>
 
 </div>
+<img src="https://raw.githubusercontent.com/SakshiKundra/SakshiKundra/output/snake.svg" alt="Snake animation" />
 
-![image](https://github.com/user-attachments/assets/41e12f7d-4e93-4437-ac71-866898da3ebd)
+###
 
 ---
 
@@ -39,7 +40,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakshi_09.4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SakshiKundra)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SakshiKundra)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithsakshi09@gmail.com)
 
 ---
@@ -57,7 +57,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge
 ::contentReference[oaicite:0]{index=0}
  
