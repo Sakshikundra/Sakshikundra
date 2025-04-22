@@ -7,25 +7,30 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%">
-      
-### 🌼 About Me
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        
+        <h3>🌼 About Me</h3>
 
-💻 Frontend developer crafting clean, responsive UIs with **ReactJS**, **TailwindCSS**, and a touch of creative flair ✨  
-🎬 Filmmaker at heart — storytelling through code *and* camera angles  
-🌱 Currently building slick React projects & exploring cool UI tricks  
-🤝 Let’s collab on anything creative + techy  
-📫 Reach me: **codewithsakshi09@gmail.com**  
-⚡ Fun Fact: I treat hover effects like movie edits — both deserve perfection 🎥
+        <ul>
+          <li>💻 Frontend dev crafting clean UIs with <strong>ReactJS</strong> & <strong>TailwindCSS</strong></li>
+          <li>🎬 Filmmaker at heart — storytelling through code & camera</li>
+          <li>🌱 Currently mastering React projects & creative UI animations</li>
+          <li>🤝 Open to collabs on all things creative + tech</li>
+          <li>📫 Reach me: <strong>codewithsakshi09@gmail.com</strong></li>
+          <li>⚡ Fun Fact: I treat hover effects like film edits — perfection, always!</li>
+        </ul>
 
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="250" alt="Sakshi Coding">
-    </td>
-  </tr>
-</table>
+      </td>
+      <td align="right" width="40%">
+        <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="250" alt="Developer Girl Coding GIF"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
