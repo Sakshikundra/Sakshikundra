@@ -17,10 +17,10 @@
 
 - 💻 Frontend dev crafting clean UIs with **ReactJS** & **TailwindCSS**
 - 🎬 Filmmaker at heart — storytelling through code & camera
-- 🌱 Currently mastering React projects & creative UI animations
+- 🌱 Currently mastering React projects & creative UI 
 - 🤝 Open to collabs on all things creative + tech
 - 📫 Reach me: **codewithsakshi09@gmail.com**
-- ⚡ Fun Fact: I treat hover effects like film edits — perfection, always!
+
 
     </td>
     <td align="center" width="40%">
@@ -32,6 +32,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/SakshiKundra/SakshiKundra/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 ---
