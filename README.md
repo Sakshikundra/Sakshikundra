@@ -24,7 +24,7 @@
 
     </td>
     <td align="center" width="40%">
-      <img src="[https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Developer Girl GIF" />(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
+      <img src="[https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVkbm1yZXptNDR2NjJ0MjZmMDVjajBrNDRyMHJmdjNjeWNnbzBtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="250" alt="Developer Girl GIF" />
     </td>
   </tr>
 </table>
