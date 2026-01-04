@@ -24,7 +24,7 @@
 </table>
 
 </div>
-<img src="https://raw.githubusercontent.com/SakshiKundra/SakshiKundra/output/snake.svg" alt="Snake animation" />
+
 
 ###
 ###
