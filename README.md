@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://github.com/SakshiKundra/SakshiKundra/blob/main/banner.png" alt="Tech Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Sakshi Kundra</h1>
-<h3 align="center">Frontend Developer | Filmmaker</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 ---
@@ -15,12 +12,9 @@
 
 ### 🌼 About Me
 
-- 💻 Frontend dev crafting clean UIs with **ReactJS** & **TailwindCSS**
-- 🎬 Filmmaker at heart — storytelling through code & camera
-- 🌱 Currently mastering React projects & creative UI 
+- 🌱 Currently mastering DSA .
 - 🤝 Open to collabs on all things creative + tech
 - 📫 Reach me: **codewithsakshi09@gmail.com**
-
 
     </td>
     <td align="center" width="40%">
