@@ -14,7 +14,7 @@
 
 - 🌱 Currently mastering DSA .
 - 🤝 Open to collabs on all things creative + tech
-- 📫 Reach me: **codewithsakshi09@gmail.com**
+- 📫 Reach me: **kundrasakshi04@gmail.com**
 
     </td>
     <td align="center" width="40%">
