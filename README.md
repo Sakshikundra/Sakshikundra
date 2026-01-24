@@ -19,10 +19,7 @@
 I love building **clean, scalable web apps** and combining technology with **cinematic content & storytelling**.  
 My goal is to create products and content that feel **premium, intentional, and impactful**.
 
-    </td>
-    <td align="center" width="40%">
-      <img src="giphy.gif" width="260" alt="Developer Girl GIF" />
-    </td>
+    
   </tr>
 </table>
 </div>
