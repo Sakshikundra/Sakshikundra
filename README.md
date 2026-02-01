@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Kundra</h1>
-<h3 align="center">MERN Stack Developer | Frontend-Driven Full Stack Engineer</h3>
+<h3 align="center">  Full Stack Developer</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 
 ### 🌼 About Me
 
-- 🚀 MERN Stack Developer with a strong focus on **React & modern frontend**
+- 🚀 MERN Stack Developer
 - 🧠 Currently mastering **DSA & problem-solving patterns**
 - 🎬 Passionate about **cinematic filmmaking, visual storytelling & content creation**
 - 🤝 Open to collaborations in **tech, startups & creative projects**
